@@ -1,0 +1,9 @@
+{
+  "name": "demo-neon",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "scripts": {
+    "build": "tsc -p ."
+  }
+}
